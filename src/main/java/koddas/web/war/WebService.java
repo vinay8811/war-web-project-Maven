@@ -18,7 +18,7 @@ import javax.ws.rs.core.Response;
 import com.google.gson.Gson;
 
 /**
- * A very simple web service.
+ * .........A very simple web service.
  * 
  * @author Johan Holmberg.................
  */
